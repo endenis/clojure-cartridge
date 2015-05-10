@@ -7,7 +7,7 @@ Cartridge-Vendor: mjelen
 Display-Name: Clojure (1.5.1)
 Description: "Clojure is a dynamic programming language that targets the Java Virtual Machine (and the CLR, and JavaScript)."
 
-Version: '1.5.1'
+Version: '1.6.0'
 Website: http://www.clojure.org
 
 Categories:
@@ -16,7 +16,7 @@ Categories:
   - clojure
 
 Provides:
-  - clojure-1.5.1
+  - clojure-1.6.0
   - clojure
 
 Scaling:
